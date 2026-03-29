@@ -12,16 +12,16 @@ The project was made to start learning about CAD and PCB Design.
 # CAD
 The case was designed in Autodesk Fusion
 - Full Assembly
-<img width="1107" height="683" alt="image" src="https://github.com/user-attachments/assets/50d4cbad-53f6-484a-9a4a-795496b41d5e" />
+<img width="990" height="648" alt="image" src="https://github.com/user-attachments/assets/d83f20ed-2e33-4876-bbf7-b0730aba974a" />
 
 - Bottom
-<img width="1068" height="638" alt="image" src="https://github.com/user-attachments/assets/2ff76f7c-7001-4803-85b0-e40ce30cf73a" />
+<img width="885" height="630" alt="image" src="https://github.com/user-attachments/assets/7ea6cc37-fa88-4976-a346-fca3edde9dcd" />
 
 - Top
-<img width="1058" height="674" alt="image" src="https://github.com/user-attachments/assets/8750c1c3-d595-4aca-8fbe-e72b7342655b" />
+<img width="941" height="557" alt="image" src="https://github.com/user-attachments/assets/7327c9c5-4bf0-4360-9d77-062a129a67bd" />
 
 - Open View
-<img width="819" height="652" alt="image" src="https://github.com/user-attachments/assets/fee62bff-be08-465c-8cbc-90687656ac8d" />
+<img width="967" height="799" alt="image" src="https://github.com/user-attachments/assets/a14546ba-338a-4a73-8aad-1d4b6560c949" />
 
 # PCB
 
