@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'blandpad-top.step',
-/* time_stamp */ '2026-03-27T17:55:53+05:30',
+/* time_stamp */ '2026-03-29T11:30:16+05:30',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -3007,8 +3007,7 @@ SOLID_ANGLE_UNIT()
 #2956=PRODUCT_DEFINITION_SHAPE('',$,#2959);
 #2957=SHAPE_REPRESENTATION('',(#1752),#2950);
 #2958=PRODUCT_DEFINITION_CONTEXT('part definition',#2963,'design');
-#2959=PRODUCT_DEFINITION('2026-03-27-12-24-17-172','Macro-final',#2960,
-#2958);
+#2959=PRODUCT_DEFINITION('Macropad 1','Macro-final',#2960,#2958);
 #2960=PRODUCT_DEFINITION_FORMATION('',$,#2965);
 #2961=PRODUCT_RELATED_PRODUCT_CATEGORY('Macro-final','Macro-final',(#2965));
 #2962=APPLICATION_PROTOCOL_DEFINITION('international standard',
@@ -3016,8 +3015,7 @@ SOLID_ANGLE_UNIT()
 #2963=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #2964=PRODUCT_CONTEXT('part definition',#2963,'mechanical');
-#2965=PRODUCT('2026-03-27-12-24-17-172','Macro-final',
-'KiCad electronic assembly',(#2964));
+#2965=PRODUCT('Macropad 1','Macro-final','KiCad electronic assembly',(#2964));
 #2966=PRESENTATION_STYLE_ASSIGNMENT((#2969));
 #2967=PRESENTATION_STYLE_ASSIGNMENT((#2970));
 #2968=PRESENTATION_STYLE_ASSIGNMENT((#2971));
